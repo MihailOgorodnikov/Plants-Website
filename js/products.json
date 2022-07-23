@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"title": "Cacti Plant",
+		"price": 19,
+		"imgSrc": "product1.png"
+	},
+	{
+		"id": 2,
+		"title": "Cacti Plant",
+		"price": 11,
+		"imgSrc": "product2.png"
+	},
+	{
+		"id": 3,
+		"title": "Aloe Vera Plant",
+		"price": 7,
+		"imgSrc": "product3.png"
+	},
+	{
+		"id": 4,
+		"title": "Succulent Plant",
+		"price": 13,
+		"imgSrc": "product4.png"
+	},
+	{
+		"id": 5,
+		"title": "Succulent Plant",
+		"price": 11,
+		"imgSrc": "product5.png"
+	},
+	{
+		"id": 6,
+		"title": "Green Plant",
+		"price": 12,
+		"imgSrc": "product6.png"
+	},
+	{
+		"id": 7,
+		"title": "Cacti Plant",
+		"price": 19,
+		"imgSrc": "product1.png"
+	},
+	{
+		"id": 8,
+		"title": "Cacti Plant",
+		"price": 11,
+		"imgSrc": "product2.png"
+	},
+	{
+		"id": 9,
+		"title": "Aloe Vera Plant",
+		"price": 7,
+		"imgSrc": "product3.png"
+	},
+	{
+		"id": 10,
+		"title": "Succulent Plant",
+		"price": 13,
+		"imgSrc": "product4.png"
+	},
+	{
+		"id": 11,
+		"title": "Succulent Plant",
+		"price": 11,
+		"imgSrc": "product5.png"
+	},
+	{
+		"id": 12,
+		"title": "Green Plant",
+		"price": 12,
+		"imgSrc": "product6.png"
+	}
+]
