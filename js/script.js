@@ -1,7 +1,18 @@
 const modal = document.querySelector('.modal'),
       modalCross = document.querySelector('[data-close]'),
-     buttonsModal = document.querySelector('.btn-primary');
-     butModal = document.querySelector('.modal__button');
+     buttonsModal = document.querySelector('.btn-primary'),
+     butModal = document.querySelector('.modal__button'),
+     basket = document.querySelector('.nav__btns'),
+     card = document.querySelector('.card'),
+     main = document.querySelector('.main');
+
+basket.addEventListener('click', ()=> {
+    
+    card.style.display = 'block';
+}); 
+main.addEventListener('click', ()=> {
+    card.style.display = '';
+}); 
     
 buttonsModal.addEventListener('click', ()=> {
     modal.classList.add('slow');
