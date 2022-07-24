@@ -7,8 +7,13 @@ const modal = document.querySelector('.modal'),
      main = document.querySelector('.main');
 
 basket.addEventListener('click', ()=> {
+    if (card.style.display == 'none' || card.style.display == ''){
+        card.style.display = 'block';
+    }else{
+        card.style.display = 'none';
+        
+    }
     
-    card.style.display = 'block';
 }); 
 main.addEventListener('click', ()=> {
     card.style.display = '';
